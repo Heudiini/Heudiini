@@ -3,12 +3,12 @@
 
 
 
-🌟 I am a software developer student
+🌟 I am a student in IT
 
 🌟 I come from Finland
 
-🌟 But I can be found mostly in Spain
+🌟 But I can be found mostly in Spain?🙊
 
-🌟 I drink way too much coffee.. of course like coders supposed to! 🙊👍
+
 
 
