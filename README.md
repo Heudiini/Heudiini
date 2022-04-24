@@ -3,11 +3,11 @@
 
 
 
-🌟 I am a student in IT
+🌟  Student 
 
-🌟 I come from Finland
 
-🌟 But I can be found mostly in Spain?🙊
+
+
 
 
 
