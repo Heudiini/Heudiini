@@ -25,7 +25,7 @@
 - Bootstrap
 - Hosting
 - Flexbox
----
+
 </p>
 
 ## Contacts:
