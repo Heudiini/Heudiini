@@ -1,13 +1,3 @@
-### Hi there 👋
-
----
-# I'm Heidi! 
-
-- I come from Finland, but you can mostly find me in Tenerife.
-- I started to study programming in late 2020.
-
-
-
 
 ---
 
