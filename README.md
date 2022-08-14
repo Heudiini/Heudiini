@@ -1,6 +1,8 @@
 
----
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heudiini&layout=compact&theme=radical)](https://github.com/Heudiini/github-readme-stats)
+![Heudiini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heudiini&theme=radical&show_icons=true)
+                                                                                                                         
+ 
 ## skills :
 
 <p align="center">
