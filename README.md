@@ -3,7 +3,7 @@
 ![Heudiini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heudiini&theme=radical&show_icons=true)
                                                                                                                          
  
-## skills :
+## skills/ focused in studies :
 
 <p align="center">
 -  Python
