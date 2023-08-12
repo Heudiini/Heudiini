@@ -6,17 +6,22 @@
 ## skills/ focused in studies :
 
 <p align="center">
--  Python
--  linux
+- Python
+- linux
 - React
--  HTML
+- HTML
 - CSS
 - JavaScript
--  API
+- API
+- CRUD
 - Git and GitHub
 - Bootstrap
 - Hosting
+- Node
+- Express & Axios
 - Flexbox
+..etc
+
 
 </p>
 
